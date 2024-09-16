@@ -1,0 +1,23 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "correct_answers": ["Paris"],
+        "explanation": "Paris is the capital of France.",
+        "multi_answer": false
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "F. Scott Fitzgerald"],
+        "correct_answers": ["William Shakespeare"],
+        "explanation": "William Shakespeare wrote 'Romeo and Juliet'.",
+        "multi_answer": false
+    },
+    {
+        "question": "Which of the following are programming languages?",
+        "options": ["Python", "JavaScript", "HTML", "CSS"],
+        "correct_answers": ["Python", "JavaScript"],
+        "explanation": "Python and JavaScript are programming languages, while HTML and CSS are markup and styling languages.",
+        "multi_answer": true
+    }
+]
